@@ -17,6 +17,11 @@ This is a repository for a Flutter application. The primary objective of the app
 ![GitHub last commit](https://img.shields.io/github/last-commit/badiniibrahim/flutter-firebase-auth)
 ![Github Repo Size](https://img.shields.io/github/repo-size/badiniibrahim/flutter-firebase-auth)
 
+## Technologies
+- Flutter and Dart
+- Firebase
+- GetX
+
 # Getting Started
 Follow the steps below to run the app on your local machine. You'll need to make sure you have flutter installed along with that Android Studio and XCode installed too in order to test this application in a simulator. Let me know if you encounter issues with the app
 
